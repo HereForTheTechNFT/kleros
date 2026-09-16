@@ -1,3 +1,7 @@
+## Parcours francais
+
+Un parcours documentaire en français est disponible dans [docs/fr/](docs/fr/).
+
 <p align="center">
   <b style="font-size: 32px;">Kleros</b>
 </p>
